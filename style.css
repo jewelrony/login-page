@@ -1,0 +1,115 @@
+*{margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+body{background-image: url(img/bac.jpg.jpg);
+
+}
+.lp{
+    padding: 10px;
+    border: 5px solid;
+    width: 200px;
+    margin: auto;
+    border-radius: 20px;
+    border-color: blueviolet;
+    margin-top: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 50px;
+    background-color: rgb(10, 150, 129);
+
+}
+.form{padding: 10px;
+    border: 10px solid wheat;
+    border-radius: 30px;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 30px;
+    background-color: rgb(14, 120, 134);
+    
+
+}
+label{font-size: 20px;
+
+}
+input{background-color: rgb(122, 175, 219);
+
+}
+.button{background-color: green;
+    width: 40px;
+    margin: auto;
+}
+p{text-align: center;
+    margin-top: 10px;
+    font-size: 25px;
+    color: wheat;
+
+}
+a{
+    color: green;
+    width:;
+}
+/* register page */
+.reg{padding: 20px;
+    width: 300px;
+    color: rgb(6, 139, 255);
+    margin: auto;
+    border: 5px solid;
+    border-radius: 30px;
+    margin-top: 20px;
+    outline: 5px solid blueviolet;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+
+
+}
+.regf{padding: 20px;
+    width: 400px;
+    margin: auto;
+    background-color: rgb(112, 61, 168);
+    
+}
+.submit{width: 100px;
+    font-size: 20px;
+
+}
+/* reset page */
+.fpass{padding: 20px;
+    width: 400px;
+    margin: auto;
+    border: 5px solid;
+    margin-top: 30px;
+    border-radius: 20px;
+
+}
+.find{padding: 10px;
+    width:400px;
+    margin: auto;
+    margin-top: 40px;
+
+
+}
+.mail{color:rgb(42, 156, 89)
+
+}
+.mbox{padding: 5px;
+    width: 200px;
+    margin: auto;
+    display: block;
+    background-color: rgb(162, 132, 190);
+    text-decoration-color: aliceblue;
+
+}
+.btn1{margin-top:20px;
+    display:block;
+    width: 50px;
+    margin-left: 50px;
+
+}
+.btn2{margin-top:20px;
+    display:block;
+    width: 50px;
+    margin-right:50px;
+
+}
